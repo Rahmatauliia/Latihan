@@ -3,3 +3,5 @@ GIT dan Github
 Fremewrok Boostrap
 Fremework Codeigniter
 DBMS Mysql
+Membuat aplikasi Game Terbaru kelas 5 :
+contoh game nya seperti PUBG
